@@ -1,6 +1,8 @@
 # [Encurtador de Links]
 ![Nome do Projeto](https://i.imgur.com/saF000i.png)
 
+Confira o [projeto em produção](https://65aca1b3bfe9a722fb25c36e--astonishing-rabanadas-ef8280.netlify.app/) para ver o encurtador de links em ação.
+
 Este projeto é um encurtador de links prático e fácil de usar, construído com PHP no back-end e Vue.js no front-end, utilizando Vite para uma experiência de desenvolvimento moderna e eficiente.
 
 ## Características
