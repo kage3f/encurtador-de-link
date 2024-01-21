@@ -1,4 +1,5 @@
 # [Encurtador de Links]
+![image]([https://github.com/kage3f/encurtador-de-link/assets/61149680/21a04f0c-9df7-4eb6-8924-2a597a6735ef](https://i.imgur.com/saF000i.png))
 
 Este projeto é um encurtador de links prático e fácil de usar, construído com PHP no back-end e Vue.js no front-end, utilizando Vite para uma experiência de desenvolvimento moderna e eficiente.
 
